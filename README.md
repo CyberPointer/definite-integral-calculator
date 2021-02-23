@@ -22,9 +22,6 @@ GUI is divided into 3 modules:
 
 .
 
-![Guiexample](./images/chart_derivative.jpg)
-
-.
 
 ## Compare-results
 
@@ -47,6 +44,10 @@ GUI is divided into 3 modules:
 .
 
 ![Guiexample](./images/chart_derivative.jpg)
+
+.
+
+
 
 
  
