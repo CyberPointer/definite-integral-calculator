@@ -57,9 +57,6 @@ GUI is divided into 3 modules:
 
 # Visualization
 
-![Guiexample](./images/chart_derivative2.jpg)
-
-.
 
 ![Guiexample](./images/chart_derivative.jpg)
 
@@ -73,5 +70,6 @@ GUI is divided into 3 modules:
 
 .
 
+![Guiexample](./images/chart_derivative2.jpg)
 
  
