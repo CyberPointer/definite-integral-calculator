@@ -6,7 +6,7 @@ GUI is divided into 3 modules:
 
 1) Calculating definite integrals
 2) Comparing method results 
-3) Visualization of the first order derivative graph.
+3) Visualization of the first order derivative graph
 
 
 
