@@ -67,6 +67,7 @@ After user delivered data and pressed calculation, program offers ability to com
 
 ![Guiexample](./images/definite_integral_comparing_methods2.jpg)
 
+Image shows results when all options are selected. 
 
 # Visualization
 
