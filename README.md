@@ -85,7 +85,7 @@ After loading data and pressing calculate button graph of function is being crea
 
 ![Guiexample](./images/chart_derivative_and.jpg)
 
-User can hover mose over blue graph points/dots to chose tangent line to calculate. This image shows that
+User can hover mose over blue graph points/dots to chose tangent line to calculate. This image shows example of that.
 
 ![Guiexample](./images/chart_derivative_only.jpg)
 
