@@ -77,7 +77,7 @@ This tab is designed for the first order integral dettermination. User can fill 
 
 ![Guiexample](./images/chart_derivative.jpg)
 
-After loading data and pressing calculate button graph of function is created.
+After loading data and pressing calculate button graph of function is being created.
 
 
 ![Guiexample](./images/chart_derivative.jpg)
@@ -89,8 +89,8 @@ User can hover mose over blue graph points/dots to chose tangent line to calcula
 
 ![Guiexample](./images/chart_derivative_only.jpg)
 
-.
+This image shows option to show only tangent line with out graph.
 
 ![Guiexample](./images/chart_derivative2.jpg)
 
- 
+Here all options are selected, that allows to see graphical diffrences between diffrent methods.
