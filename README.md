@@ -17,7 +17,7 @@ GUI is divided into 3 modules:
 * [Compare results of definite integral](#compare-results)
 * [Visualization of derivative graph](#visualization)
 
-##Summary
+## Summary
 
 
 ## Methods
