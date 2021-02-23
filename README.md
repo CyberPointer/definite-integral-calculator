@@ -53,7 +53,7 @@ Third input's function is to take lower border.
 
 The last one takes higher border.
 
-.
+
 
 ![Guiexample](./images/order_derivative1.jpg)
 
@@ -63,7 +63,7 @@ Second example
 
 ![Guiexample](./images/definite_integral_comparing_methods.jpg)
 
-.
+After user delivered data and pressed calculation, program offers ability to compare method calculation results. This image shows that. User can chose methods he wants to compare, add standard error or standard deviation. 
 
 ![Guiexample](./images/definite_integral_comparing_methods2.jpg)
 
