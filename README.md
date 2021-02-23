@@ -19,15 +19,13 @@ GUI is divided into 3 modules:
 ## Methods
 
 ### Definite integral
--Rectangle rule
--Rectangle midpoint rule
--Trapezoidal rule
--Simpson rule
--Monte Carlo
-
+1)Rectangle rule
+2)Rectangle midpoint rule
+3)Trapezoidal rule
+4)Simpson rule
+5)Monte Carlo
 
 ### Order derivative
-
 
 
 ## Definite-integral
