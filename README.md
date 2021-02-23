@@ -25,17 +25,11 @@ GUI is divided into 3 modules:
 
 ## Compare-results
 
+![Guiexample](./images/definite_integral_comparing_methods.jpg)
+
 ![Guiexample](./images/definite_integral_comparing_methods2.jpg)
 
-.
 
-![Guiexample](./images/chart_derivative_only.jpg)
-
-.
-
-![Guiexample](./images/chart_derivative_and.jpg)
-
-.
 
 # Visualization
 
@@ -47,7 +41,13 @@ GUI is divided into 3 modules:
 
 .
 
+![Guiexample](./images/chart_derivative_only.jpg)
 
+.
+
+![Guiexample](./images/chart_derivative_and.jpg)
+
+.
 
 
  
