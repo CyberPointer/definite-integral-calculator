@@ -13,7 +13,7 @@ GUI is divided into 3 modules:
 ## Table of contents
 * [Summary](#summary)
 * [Methods used](#methods)
-* [Definite integral and order derivative](#definite-integral)
+* [GUI tabs](#gui)
 * [Compare results of definite integral](#compare-results)
 * [Visualization of derivative graph](#visualization)
 
@@ -35,10 +35,14 @@ GUI is divided into 3 modules:
 3) Forward differentiation
 4) All above with Richardson's extrapolation
 
-## Definite-integral
+## GUI
 
 ![Guiexample](./images/definite_integral_inputing_data1.jpg)
-
+Image presents main tab with 4 text inputs, from wich data is loaded. 
+Input on top serves a purpouse to aquire function of definite integral  in following format 
+'''
+asdasd
+'''
 .
 
 ![Guiexample](./images/order_derivative1.jpg)
