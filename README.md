@@ -27,8 +27,9 @@ GUI is divided into 3 modules:
 
 ![Guiexample](./images/definite_integral_comparing_methods.jpg)
 
-![Guiexample](./images/definite_integral_comparing_methods2.jpg)
+.
 
+![Guiexample](./images/definite_integral_comparing_methods2.jpg)
 
 
 # Visualization
