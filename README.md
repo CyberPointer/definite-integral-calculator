@@ -3,11 +3,12 @@ Program to calculate definite integral and determing the course of the order der
 # Algorithms
 
 
-![Guiexample](./images/order_derivative1.jpg)
+
+![Guiexample](./images/definite_integral_inputing_data1.jpg)
 
 .
 
-![Guiexample](./images/definite_integral_inputing_data1.jpg)
+![Guiexample](./images/order_derivative1.jpg)
 
 .
 
