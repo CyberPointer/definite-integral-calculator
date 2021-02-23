@@ -38,17 +38,23 @@ GUI is divided into 3 modules:
 ## GUI
 
 ![Guiexample](./images/definite_integral_inputing_data1.jpg)
-Image presents main tab with 4 text inputs, from wich data is loaded. 
+Image presents main tab of program after start, with 4 text inputs from wich data is loaded. 
 Input on top serves a purpouse to aquire function of definite integral. Example of input  
 `
 x^3 + 3x + 2
 `
-where 'x' is function and number after '^' represents power of function. 
-.
+
+Where 'x' is function and number after '^' represents power of function. 
+
+Input just below is designed to take number of definite integral's subintervals.
+
+Third input function is to take lower border.
+
+The last one takes higher border.
 
 ![Guiexample](./images/order_derivative1.jpg)
 
-.
+Second example
 
 
 ## Compare-results
