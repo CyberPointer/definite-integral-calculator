@@ -48,14 +48,14 @@ Where 'x' is function and number after '^' represents power of function.
 
 Input just below is designed to take number of definite integral's subintervals.
 
-Third input function is to take lower border.
+Third input's function is to take lower border.
 
 The last one takes higher border.
 
-![Guiexample](./images/order_derivative1.jpg)
-
 Second example
+.
 
+![Guiexample](./images/order_derivative1.jpg)
 
 ## Compare-results
 
@@ -67,6 +67,9 @@ Second example
 
 
 # Visualization
+
+![Guiexample](./images/order_derivative1.jpg)
+.
 
 
 ![Guiexample](./images/chart_derivative.jpg)
