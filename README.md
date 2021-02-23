@@ -11,13 +11,13 @@ GUI is divided into 3 modules:
 
 
 ## Table of contents
-* [Brief explanation](#explanation)
+* [Summary](#summary)
 * [Methods used](#methods)
 * [Definite integral and order derivative](#definite-integral)
 * [Compare results of definite integral](#compare-results)
 * [Visualization of derivative graph](#visualization)
 
-##Explanation
+##Summary
 
 
 ## Methods
