@@ -89,7 +89,7 @@ User can hover mose over blue graph points/dots to chose tangent line to calcula
 
 ![Guiexample](./images/chart_derivative_only.jpg)
 
-This image shows option to show only tangent line with out graph.
+Example shows option to show only tangent line with out graph.
 
 ![Guiexample](./images/chart_derivative2.jpg)
 
