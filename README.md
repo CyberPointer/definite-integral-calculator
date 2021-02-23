@@ -39,10 +39,11 @@ GUI is divided into 3 modules:
 
 ![Guiexample](./images/definite_integral_inputing_data1.jpg)
 Image presents main tab with 4 text inputs, from wich data is loaded. 
-Input on top serves a purpouse to aquire function of definite integral  in following format 
-'''
-asdasd
-'''
+Input on top serves a purpouse to aquire function of definite integral. Example of input  
+`
+x^3 + 3x + 2
+`
+where 'x' is function and number after '^' represents power of function. 
 .
 
 ![Guiexample](./images/order_derivative1.jpg)
