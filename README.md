@@ -1,14 +1,32 @@
 # definite-integral-calculator
-Program to calculate definite integral and determing the course of the order derivative. 
+Program to calculate definite integral using main methods and determing the course of the order derivative. 
+
+
 GUI is divided into 3 modules: 
-1) Calculating definite integral
+1) Calculating definite integrals
 2) Comparing method results 
 3) Visualization of the course of order deriviative
 
+
+
 ## Table of contents
+* [Methods used](#methods)
 * [Definite integral](#definite-integral)
 * [Compare results](#compare-results)
 * [Visualization of the course](#visualization)
+
+
+##Methods
+
+###Definite integral
+-Rectangle rule
+-Rectangle midpoint rule
+-Trapezoidal rule
+-Simpson rule
+-Monte Carlo
+
+
+###Order derivative
 
 
 
