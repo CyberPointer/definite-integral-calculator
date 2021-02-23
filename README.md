@@ -73,7 +73,7 @@ Image shows results when all options are selected.
 
 ![Guiexample](./images/order_derivative1.jpg)
 
-This tab is designed for the first order integral dettermination. User can fill all inputs in order to start calculation rr all data can be loaded from the file.
+This tab is designed for the first order integral dettermination. User can fill all inputs in order to start calculation or all data can be loaded from the file.
 
 ![Guiexample](./images/chart_derivative.jpg)
 
