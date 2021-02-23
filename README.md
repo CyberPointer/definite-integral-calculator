@@ -3,6 +3,7 @@ Program to calculate definite integral using main methods and determing the cour
 
 
 GUI is divided into 3 modules: 
+
 1) Calculating definite integrals
 2) Comparing method results 
 3) Visualization of the course of order deriviative
@@ -10,6 +11,7 @@ GUI is divided into 3 modules:
 
 
 ## Table of contents
+* [Brief explanation](#explanation)
 * [Methods used](#methods)
 * [Definite integral and order derivative](#definite-integral)
 * [Compare results of definite integral](#compare-results)
