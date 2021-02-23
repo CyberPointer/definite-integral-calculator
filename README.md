@@ -26,7 +26,10 @@ GUI is divided into 3 modules:
 5) Monte Carlo
 
 ### Order derivative
-
+1) Backward differentiation
+2) Central differentiation
+3) Forward differentiation
+4) All above with Richardson's extrapolation
 
 ## Definite-integral
 
