@@ -71,7 +71,10 @@ After user delivered data and pressed calculation, program offers ability to com
 # Visualization
 
 ![Guiexample](./images/order_derivative1.jpg)
-.
+
+This tab is designed for the first order integral dettermination. User can fill all inputs in order to start calculation rr all data can be loaded from the file.
+
+![Guiexample](./images/chart_derivative.jpg)
 
 
 ![Guiexample](./images/chart_derivative.jpg)
