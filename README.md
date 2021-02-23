@@ -11,8 +11,8 @@ GUI is divided into 3 modules:
 
 ## Table of contents
 * [Methods used](#methods)
-* [Definite integral](#definite-integral)
-* [Compare results](#compare-results)
+* [Definite integral and order derivative](#definite-integral)
+* [Compare results of definite integral](#compare-results)
 * [Visualization of the course](#visualization)
 
 
