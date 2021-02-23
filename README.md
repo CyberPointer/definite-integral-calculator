@@ -16,9 +16,9 @@ GUI is divided into 3 modules:
 * [Visualization of the course](#visualization)
 
 
-##Methods
+## Methods
 
-###Definite integral
+### Definite integral
 -Rectangle rule
 -Rectangle midpoint rule
 -Trapezoidal rule
@@ -26,7 +26,7 @@ GUI is divided into 3 modules:
 -Monte Carlo
 
 
-###Order derivative
+### Order derivative
 
 
 
